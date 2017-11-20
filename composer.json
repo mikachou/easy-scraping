@@ -1,0 +1,17 @@
+{
+    "name": "mikachou/easy-scraping",
+    "description": "A library that eases scraping process",
+    "type": "library",
+    "require": {
+        "fabpot/goutte": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "Michaël Schuh",
+            "email": "michael.schuh.34@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "kahlan/kahlan": "^4.0"
+    }
+}
